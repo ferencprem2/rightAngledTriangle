@@ -1,0 +1,27 @@
+#caption{
+    background-color: bisque;
+    width: 600px;
+    height: 120px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 0px 15px 15px 15px;
+    box-shadow: 10px 15px peru;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+hr{
+    color: lightgray;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
